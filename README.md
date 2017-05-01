@@ -26,8 +26,8 @@ awesome deep learning papers for face recognition
 
 ## Purning Network
 
-## loss fuction
-
+## Loss fuction
+- [A Discriminative Feature Learning Approach for Deep Face Recognition](http://ydwen.github.io/papers/WenECCV16.pdf) [Yandong Wen et al., arXiv 2016]
 
 
 
