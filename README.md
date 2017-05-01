@@ -37,4 +37,9 @@ awesome deep learning papers for face recognition
 
 - [Range Loss for Deep Face Recognition with Long-tail](https://arxiv.org/abs/1611.08976) [Xiao Zhang et al., 2016]
 
+## Joint Bayesian
+- [Bayesian Face Revisited: A Joint Formulation](http://www.jiansun.org/papers/ECCV12_BayesianFace.pdf) [Dong Chen et al., 2012]
+
+
+
 
