@@ -6,6 +6,8 @@ awesome deep learning papers for face recognition
 ## DeepID Series
 - [Deep Learning Face Representation from Predicting 10,000 Classes](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf) [Yi Sun et al., arXiv 2014]
 
+- [Deep Learning Face Representation by Joint Identification-Verification](https://arxiv.org/abs/1406.4773) [Yi Sun et al., arXiv 2015]
+
 ## FaceNet
 
 ## WebFace
