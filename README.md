@@ -25,7 +25,7 @@ awesome deep learning papers for face recognition
 ## VGGFace
 - [Deep Face Recognition](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf) [Omkar M. Parkhi et al., 2015]
 
-## Purning Network
+## Pruning Network
 - [DSD: Dense-Sparse-Dense Training for Deep Neural Networks](https://arxiv.org/abs/1607.04381) [Song Han et al., 2017]
 
 - [Pruning Convolutional Neural Networks for Resource Efficient Transfer Learning](https://arxiv.org/abs/1611.06440) [Pavlo Molchanov et al., 2017]
