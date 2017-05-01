@@ -9,7 +9,7 @@ awesome deep learning papers for face recognition
 - [Deep Learning Face Representation by Joint Identification-Verification](https://arxiv.org/abs/1406.4773) [Yi Sun et al., arXiv 2015]
 
 ## FaceNet
-- [FaceNet: A Unified Embedding for Face Recognition and Clustering](http://www.cvfoundation.org/openaccess/content_cvpr_2015/html/Schroff_FaceNet_A_Unified_2015_CVPR_paper.html)[Florian Schroff et al., arXiv 2017]
+- [FaceNet: A Unified Embedding for Face Recognition and Clustering](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Schroff_FaceNet_A_Unified_2015_CVPR_paper.html)[Florian Schroff et al., arXiv 2017]
 
 
 ## WebFace
