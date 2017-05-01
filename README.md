@@ -20,7 +20,7 @@ awesome deep learning papers for face recognition
 ## WebFace
 - [Learning Face Representation from Scratch](https://arxiv.org/pdf/1411.7923.pdf) [Dong Yi et al., 2014]
 
-- [A Light CNN for Deep Face Representation with Noisy Labels](https://arxiv.org/abs/1511.02683)[Xiang Wu et al., 2015]
+- [A Light CNN for Deep Face Representation with Noisy Labels](https://arxiv.org/abs/1511.02683) [Xiang Wu et al., 2015]
 
 ## VGGFace
 - [Deep Face Recognition](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf) [Omkar M. Parkhi et al., 2015]
