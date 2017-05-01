@@ -20,6 +20,7 @@ awesome deep learning papers for face recognition
 ## WebFace
 - [Learning Face Representation from Scratch](https://arxiv.org/pdf/1411.7923.pdf) [Dong Yi et al., 2014]
 
+- [A Light CNN for Deep Face Representation with Noisy Labels](https://arxiv.org/abs/1511.02683)[Xiang Wu et al., 2015]
 
 ## VGGFace
 - [Deep Face Recognition](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf) [Omkar M. Parkhi et al., 2015]
@@ -33,5 +34,7 @@ awesome deep learning papers for face recognition
 - [A Discriminative Feature Learning Approach for Deep Face Recognition](http://ydwen.github.io/papers/WenECCV16.pdf) [Yandong Wen et al., 2016]
 
 - [Beyond triplet loss: a deep quadruplet network for person re-identification](https://arxiv.org/pdf/1704.01719.pdf) [Weihua Chen et al., 2017]
+
+- [Range Loss for Deep Face Recognition with Long-tail](https://arxiv.org/abs/1611.08976) [Xiao Zhang et al., 2016]
 
 
