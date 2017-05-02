@@ -41,6 +41,8 @@ awesome deep learning papers for face recognition
 
 - [Pruning Convolutional Neural Networks for Resource Efficient Transfer Learning](https://arxiv.org/abs/1611.06440) [Pavlo Molchanov et al., 2017]
 
+- [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) [Song Han et al., 2016]
+
 ## Loss fuction
 - [A Discriminative Feature Learning Approach for Deep Face Recognition](http://ydwen.github.io/papers/WenECCV16.pdf) [Yandong Wen et al., 2016]
 
