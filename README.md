@@ -4,6 +4,8 @@ awesome deep learning papers for face recognition
 ## DeepFace
 - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf) [Yaniv Taigman et al., 2014]
 
+- [Web-Scale Training for Face Identification](https://arxiv.org/abs/1406.5266) [Yaniv Taigman et al., 2015]
+
 ## DeepID Series
 - [Deep Learning Face Representation from Predicting 10,000 Classes](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf) [Yi Sun et al., 2014]
 
