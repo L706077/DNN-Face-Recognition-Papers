@@ -57,6 +57,9 @@ awesome deep learning papers for face recognition
 
 - [A Practical Transfer Learning Algorithm for Face Verification](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Cao_A_Practical_Transfer_2013_ICCV_paper.pdf) [Xudong Cao et al., 2013]
 
+## LFW
+- [Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments](http://vis-www.cs.umass.edu/lfw/lfw.pdf) [Gary B. et al., 2012]
+
 ## MegaFace
 - [MegaFace: A Million Faces for Recognition at Scale](https://arxiv.org/abs/1505.02108) [D. Miller et al., 2016]
 
