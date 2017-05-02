@@ -57,4 +57,9 @@ awesome deep learning papers for face recognition
 
 - [A Practical Transfer Learning Algorithm for Face Verification](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Cao_A_Practical_Transfer_2013_ICCV_paper.pdf) [Xudong Cao et al., 2013]
 
+## MegaFace
+- [MegaFace: A Million Faces for Recognition at Scale](https://arxiv.org/abs/1505.02108) [D. Miller et al., 2016]
+
+- [The MegaFace Benchmark: 1 Million Faces for Recognition at Scale](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kemelmacher-Shlizerman_The_MegaFace_Benchmark_CVPR_2016_paper.pdf) [Ira Kemelmacher-Shlizerman et al., 2016]
+
 
