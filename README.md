@@ -62,4 +62,6 @@ awesome deep learning papers for face recognition
 
 - [The MegaFace Benchmark: 1 Million Faces for Recognition at Scale](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kemelmacher-Shlizerman_The_MegaFace_Benchmark_CVPR_2016_paper.pdf) [Ira Kemelmacher-Shlizerman et al., 2016]
 
+## MS Celebrity
+- [MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition](https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/) [Yandong Guo et al., 2016]
 
