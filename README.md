@@ -55,6 +55,6 @@ awesome deep learning papers for face recognition
 ## Joint Bayesian
 - [Bayesian Face Revisited: A Joint Formulation](http://www.jiansun.org/papers/ECCV12_BayesianFace.pdf) [Dong Chen et al., 2012]
 
-
+- [A Practical Transfer Learning Algorithm for Face Verification](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Cao_A_Practical_Transfer_2013_ICCV_paper.pdf) [Xudong Cao et al., 2013]
 
 
