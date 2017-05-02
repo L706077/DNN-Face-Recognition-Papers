@@ -33,6 +33,9 @@ awesome deep learning papers for face recognition
 ## Face++
 - [Naive-Deep Face Recognition: Touching the Limit of LFW Benchmark or Not?](https://arxiv.org/abs/1501.04690) [Erjin Zhou et al., 2015]
 
+## OpenFace
+- [OpenFace: A general-purpose face recognition library with mobile applications](https://cmusatyalab.github.io/openface/) [Brandon Amos et al., 2016]
+
 ## Pruning Network
 - [DSD: Dense-Sparse-Dense Training for Deep Neural Networks](https://arxiv.org/abs/1607.04381) [Song Han et al., 2017]
 
