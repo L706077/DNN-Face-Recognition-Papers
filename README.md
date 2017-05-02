@@ -27,6 +27,12 @@ awesome deep learning papers for face recognition
 ## VGGFace
 - [Deep Face Recognition](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf) [Omkar M. Parkhi et al., 2015]
 
+## Baidu Research
+- [Targeting Ultimate Accuracy: Face Recognition via Deep Embedding](https://arxiv.org/abs/1506.07310) [Jingtuo Liu et al., 2015]
+
+## Face++
+- [Naive-Deep Face Recognition: Touching the Limit of LFW Benchmark or Not?](https://arxiv.org/abs/1501.04690) [Erjin Zhou et al., 2015]
+
 ## Pruning Network
 - [DSD: Dense-Sparse-Dense Training for Deep Neural Networks](https://arxiv.org/abs/1607.04381) [Song Han et al., 2017]
 
