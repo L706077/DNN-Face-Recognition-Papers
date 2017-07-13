@@ -45,7 +45,7 @@ awesome deep learning papers for face recognition
 
 - [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) [Song Han et al., 2016]
 
-## Center Face
+## Center Face (center loss)
 - [A Discriminative Feature Learning Approach for Deep Face Recognition](http://ydwen.github.io/papers/WenECCV16.pdf) [Yandong Wen et al., 2016]
 
 ## Loss fuction
@@ -76,3 +76,5 @@ awesome deep learning papers for face recognition
 
 - [DeepVisage: Making face recognition simple yet with powerful generalization skills](https://arxiv.org/abs/1703.08388) [Abul Hasnat al., 2017]
 
+## Sphere Face (A softmax loss)
+- [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063) [Weiyang Liu al., 2017]
