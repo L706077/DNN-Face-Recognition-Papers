@@ -45,9 +45,10 @@ awesome deep learning papers for face recognition
 
 - [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) [Song Han et al., 2016]
 
-## Loss fuction
+## Center Face
 - [A Discriminative Feature Learning Approach for Deep Face Recognition](http://ydwen.github.io/papers/WenECCV16.pdf) [Yandong Wen et al., 2016]
 
+## Loss fuction
 - [Beyond triplet loss: a deep quadruplet network for person re-identification](https://arxiv.org/pdf/1704.01719.pdf) [Weihua Chen et al., 2017]
 
 - [Range Loss for Deep Face Recognition with Long-tail](https://arxiv.org/abs/1611.08976) [Xiao Zhang et al., 2016]
