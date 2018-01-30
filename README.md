@@ -80,8 +80,12 @@ awesome deep learning papers for face recognition
 
 - [DeepVisage: Making face recognition simple yet with powerful generalization skills](https://arxiv.org/abs/1703.08388) [Abul Hasnat al., 2017]
 
+---
 
 - [reference 1 ](https://zhuanlan.zhihu.com/p/33288325)
+
+---
+
 ## Sphere Face (A softmax loss) series (angular margin): 
 - [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063) [Weiyang Liu al., 2017]
 
