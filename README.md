@@ -70,11 +70,11 @@ awesome deep learning papers for face recognition
 - [MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition](https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/) [Yandong Guo et al., 2016]
 
 ## Feature Normalization Method
+- [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063) [Weiyang Liu al., 2017]
+
 - [L2-constrained Softmax Loss for Discriminative Face Verification](https://arxiv.org/abs/1703.09507v2) [Rajeev Ranjan al., 2017]
 
 - [NormFace: L2 Hypersphere Embedding for Face Verification](https://arxiv.org/pdf/1704.06369.pdf) [Feng Wang al., 2017]
-
-- [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063) [Weiyang Liu al., 2017]
 
 - [DeepVisage: Making face recognition simple yet with powerful generalization skills](https://arxiv.org/abs/1703.08388) [Abul Hasnat al., 2017]
 
