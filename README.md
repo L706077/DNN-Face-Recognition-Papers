@@ -82,7 +82,7 @@ awesome deep learning papers for face recognition
 
 
 
-## Sphere Face (A softmax loss) series: 
+## Sphere Face (A softmax loss) series (angular margin): 
 - [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063) [Weiyang Liu al., 2017]
 
 - [AM : Additive Margin Softmax for Face Verification](https://arxiv.org/pdf/1801.05599.pdf) [Feng Wang al., 2018]
