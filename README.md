@@ -69,10 +69,12 @@ awesome deep learning papers for face recognition
 ## MS Celebrity
 - [MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition](https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/) [Yandong Guo et al., 2016]
 
-## Feature Normalization Method
-- [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063) [Weiyang Liu al., 2017]
+## Feature Normalization/Loss Function Method
+- [SphereFace: Deep Hypersphere Embedding for Face Recognition(A-Softmax loss)](https://arxiv.org/abs/1704.08063) [Weiyang Liu al., 2017]
 
 - [L2-constrained Softmax Loss for Discriminative Face Verification](https://arxiv.org/abs/1703.09507v2) [Rajeev Ranjan al., 2017]
+
+- [Rethinking Feature Discrimination and Polymerization for Large-scale Recognition(CoCo loss)](https://arxiv.org/pdf/1710.00870.pdf) [Yu Liu al., 2017]
 
 - [NormFace: L2 Hypersphere Embedding for Face Verification](https://arxiv.org/pdf/1704.06369.pdf) [Feng Wang al., 2017]
 
@@ -86,7 +88,9 @@ awesome deep learning papers for face recognition
 
 ---
 
-## Sphere Face (A softmax loss) series (angular margin): 
+## Angular margin Series: 
+- [Deep Metric Learning with Angular Loss](https://arxiv.org/pdf/1708.01682.pdf) [Jian Wang al., 2017]
+
 - [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063) [Weiyang Liu al., 2017]
 
 - [AM : Additive Margin Softmax for Face Verification](https://arxiv.org/pdf/1801.05599.pdf) [Feng Wang al., 2018]
