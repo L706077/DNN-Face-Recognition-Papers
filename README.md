@@ -97,6 +97,8 @@ awesome deep learning papers for face recognition
 
 - [AAM : Face Recognition via Centralized Coordinate Learning](https://arxiv.org/pdf/1801.05678.pdf) [Xianbiao al., 2018]
 
+- [CosFace: Large Margin Cosine Loss for Deep Face Recognition(Tencent AI Lab)](https://arxiv.org/pdf/1801.09414.pdf)
+
 - [ArcFace: ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698.pdf) [Jiankang Deng al., 2018] [code](https://github.com/deepinsight/insightface)
 
 ## 3D Face Recognition:
