@@ -91,15 +91,13 @@ awesome deep learning papers for face recognition
 ---
 
 ## Angular margin Series: 
-- [Deep Metric Learning with Angular Loss](https://arxiv.org/pdf/1708.01682.pdf) [Jian Wang al., 2017]
+- [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063) [Weiyang Liu al., 2017] [code](https://github.com/wy1iu/sphereface)
 
-- [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063) [Weiyang Liu al., 2017]
-
-- [AM : Additive Margin Softmax for Face Verification](https://arxiv.org/pdf/1801.05599.pdf) [Feng Wang al., 2018]
+- [AM : Additive Margin Softmax for Face Verification](https://arxiv.org/pdf/1801.05599.pdf) [Feng Wang al., 2018] [code](https://github.com/happynear/AMSoftmax)
 
 - [AAM : Face Recognition via Centralized Coordinate Learning](https://arxiv.org/pdf/1801.05678.pdf) [Xianbiao al., 2018]
 
-- [ArcFace: ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698.pdf) [Jiankang Deng al., 2018]
+- [ArcFace: ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698.pdf) [Jiankang Deng al., 2018] [code](https://github.com/deepinsight/insightface)
 
 ## 3D Face Recognition:
 - [Deep 3D Face Identification](https://arxiv.org/pdf/1703.10714.pdf) [Donghyun Kim al., 2017]
