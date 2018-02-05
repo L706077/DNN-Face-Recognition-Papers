@@ -70,7 +70,7 @@ awesome deep learning papers for face recognition
 - [MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition](https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/) [Yandong Guo et al., 2016]
 
 ## Feature Normalization/Loss Function Method
-  - [Large-Margin Softmax Loss for Convolutional Neural Networks(L-Softmax loss)](https://arxiv.org/pdf/1612.02295.pdf) [Weiyang Liu al., 2017]
+  - [Large-Margin Softmax Loss for Convolutional Neural Networks(L-Softmax loss)](https://arxiv.org/pdf/1612.02295.pdf) [Weiyang Liu al., 2017] [code](https://github.com/wy1iu/LargeMargin_Softmax_Loss)
 
 - [SphereFace: Deep Hypersphere Embedding for Face Recognition(A-Softmax loss)](https://arxiv.org/abs/1704.08063) [Weiyang Liu al., 2017]
 
