@@ -106,6 +106,6 @@ awesome deep learning papers for face recognition
 
 - [Learning from Millions of 3D Scans for Large-scale 3D Face Recognition](https://arxiv.org/pdf/1711.05942.pdf) [S. Z. Gilani al.,2018]
 
-
-
+## SenseTime
+- [Exploring Disentangled Feature Representation Beyond Face Identification](https://arxiv.org/pdf/1804.03487.pdf) [Yu Liu al. ,2018]
 
