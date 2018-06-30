@@ -101,6 +101,9 @@ awesome deep learning papers for face recognition
 
 - [ArcFace: ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698.pdf) [Jiankang Deng al., 2018] [code](https://github.com/deepinsight/insightface)
 
+- [MobileFaceNets: Efficient CNNs for Accurate Real-Time Face Verification on Mobile Devices](https://arxiv.org/abs/1804.07573) [Sheng Chen al., 2018] [code](https://github.com/imistyrain/MobileFaceNet)
+
+
 ## 3D Face Recognition:
 - [Deep 3D Face Identification](https://arxiv.org/pdf/1703.10714.pdf) [Donghyun Kim al., 2017]
 
