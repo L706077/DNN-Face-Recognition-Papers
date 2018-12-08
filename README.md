@@ -95,11 +95,11 @@ awesome deep learning papers for face recognition
 
 - [AM : Additive Margin Softmax for Face Verification](https://arxiv.org/pdf/1801.05599.pdf) [Feng Wang al., 2018] [code](https://github.com/happynear/AMSoftmax)
 
-- [AAM : Face Recognition via Centralized Coordinate Learning](https://arxiv.org/pdf/1801.05678.pdf) [Xianbiao al., 2018]
+- [CCL : Face Recognition via Centralized Coordinate Learning](https://arxiv.org/pdf/1801.05678.pdf) [Xianbiao al., 2018]
 
 - [CosFace: Large Margin Cosine Loss for Deep Face Recognition(Tencent AI Lab)](https://arxiv.org/pdf/1801.09414.pdf) [Hao Wang al., 2018]
 
-- [ArcFace: ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698.pdf) [Jiankang Deng al., 2018] [code](https://github.com/deepinsight/insightface)
+- [AAM : ArcFace: ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/pdf/1801.07698.pdf) [Jiankang Deng al., 2018] [code](https://github.com/deepinsight/insightface)
 
 - [MobileFaceNets: Efficient CNNs for Accurate Real-Time Face Verification on Mobile Devices](https://arxiv.org/abs/1804.07573) [Sheng Chen al., 2018] [code](https://github.com/imistyrain/MobileFaceNet)
 
